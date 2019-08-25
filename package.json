@@ -1,0 +1,24 @@
+{
+  "name": "APIMERN",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "poststart": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierMartinezVergara/APIMERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavierMartinezVergara/APIMERN/issues"
+  },
+  "homepage": "https://github.com/JavierMartinezVergara/APIMERN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
