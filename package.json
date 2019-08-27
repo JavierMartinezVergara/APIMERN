@@ -19,6 +19,11 @@
   },
   "homepage": "https://github.com/JavierMartinezVergara/APIMERN#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.6.11",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
